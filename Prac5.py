@@ -55,3 +55,4 @@ print(Emp)
 # Access nested dictionary item
 print("Emp 1 name:", Emp["Emp1"]["name"])
 print("Emp 2 name:", Emp["Emp2"]["name"])
+print("Emp 3 name:", Emp["Emp3"]["name"])
