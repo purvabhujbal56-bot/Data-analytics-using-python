@@ -6,6 +6,7 @@ print("Length:", len(s))
 
 # 2.Reverse the string
 print("Reversed:", s2[::-1])
+print("Reversed:", s2[:3:1])
 
 # 3. Trimming - remove spaces from both sides
 print("Trimmed String:", s.strip())
