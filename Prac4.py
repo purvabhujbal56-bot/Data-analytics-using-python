@@ -37,3 +37,4 @@ tuple1 = ("Red", "Green")
 tuple2 = ("Blue", "Yellow")
 joined_tuple = tuple1 + tuple2
 print("Joined tuple:", joined_tuple)
+#print("Joined tuple:", joined_tuple)
