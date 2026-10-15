@@ -11,6 +11,7 @@ print(series)
 numpy_array = np.array(series)
 
 print("\nConverted NumPy Array:")
+#print(numpy_array)
 print(numpy_array)
 
 # Display data type
